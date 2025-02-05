@@ -31,3 +31,7 @@ To run the project locally, follow these steps:
 2. **Navigate to the project directory**:
     ```bash
      cd expense_tracker
+3. **Install dependencies**:
+   Make sure you have Node.js installed. Then, run the following command to install the project dependencies:
+   ```bash
+   npm install
