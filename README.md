@@ -1,5 +1,5 @@
 # Expense Tracker
-
+ 
 An expense tracking web application built with React. This app allows users to input their expenses with details such as the name of the expense, amount, date, and category. The expenses are displayed in a list, with options to edit or delete individual entries.
 
 ## Features
