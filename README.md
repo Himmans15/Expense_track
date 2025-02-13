@@ -17,7 +17,7 @@ An expense tracking web application built with React. This app allows users to i
 
 ## Screenshots
 
-![Expense Tracker Screenshot](screenshot1.png)  
+![Expense Tracker Screenshot](/screenshot1.png)  
 *(Include a screenshot of your app here)*
 
 ## Installation
