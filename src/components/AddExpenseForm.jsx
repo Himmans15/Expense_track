@@ -37,7 +37,7 @@ const AddExpenseForm = ({addExpense}) => {
       <button type='submit'>Add</button>
       </form>
       
-    
+     
   )
 }
 
